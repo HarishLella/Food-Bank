@@ -3,8 +3,8 @@ project:
   name: Food-Bank
   package:
     name: Food-Bank
-    namespace: harishfoodbank
     api_version: "60.0"
+    namespace: secondfoodbank
   git:
     default_branch: "main"
   source_format: sfdx
