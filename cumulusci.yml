@@ -3,6 +3,7 @@ project:
   name: Food-Bank
   package:
     name: Food-Bank
+    namespace: harishfoodbank
     api_version: "60.0"
   git:
     default_branch: "main"
